@@ -6,7 +6,7 @@ public class ProgramaMontecarlo {
 
     AproximacionMontecarlo objeto1 = new AproximacionMontecarlo();
 
-    int PuntosTotales=1000000;
+    int PuntosTotales=1000000; //INPUT
     System.out.println(objeto1.aproximarPorMontecarlo(PuntosTotales));
 
 
