@@ -1,4 +1,6 @@
 package Practica1;
+import java.util.Random;
+
 
 public class AproximacionMontecarlo {
     public double aproximarPorMontecarlo(int puntosTotales) {
