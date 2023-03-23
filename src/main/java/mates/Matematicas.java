@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class Matematicas {
 
-    public double generarNumeroPi(long pasos) {
+    public static double generarNumeroPi(long pasos) {
         long aciertos = 0;
         double x, y;
         double areaCuadrado = 4;
